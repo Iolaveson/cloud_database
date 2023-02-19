@@ -21,7 +21,7 @@ SQL
 {Make a list of websites that you found helpful in this project}
 - [Azure documentation](https://learn.microsoft.com/en-us/azure/?product=popular)
 - [Azure tutorial 1](https://learn.microsoft.com/en-us/azure/azure-sql/database/private-endpoint-overview?view=azuresql#how-to-set-up-private-link-for-azure-sql-database)
-- [Azure tutorial 2](http://url.link.goes.here](https://learn.microsoft.com/en-us/sql/azure-data-studio/quickstart-sql-database?view=sql-server-ver16)
+- [Azure tutorial 2](https://learn.microsoft.com/en-us/sql/azure-data-studio/quickstart-sql-database?view=sql-server-ver16)
 
 # Future Work
 
